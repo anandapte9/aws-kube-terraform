@@ -1,7 +1,7 @@
 #Initialization vriables
-region = "REGION"
-access-key = "ACCESS_KEY"
-secret-key = "SECRET_KEY"
+region = "ap-southeast-2"
+access-key = "AKIAJYCNN3QDSLZ4T5KQ"
+secret-key = "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"
 environment = "Kube"
 
 # Networking variables
@@ -12,5 +12,5 @@ availability-zones = ["ap-southeast-2a","ap-southeast-2b", "ap-southeast-2c"]
 
 #Instance variables
 kube-master-count = 1
-kube-node-count = NDOE_COUNT
+kube-node-count = 3
 instance-type = "t2.micro"
