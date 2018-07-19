@@ -11,6 +11,7 @@ Nice to haves:
 - git bash - always good to have git bash if you are on windows platform to run this project AS-IS.
 - atom editor - if you want to see the code and have fun modifying it yourself Atom is my own preferred editor but ofcourse you are free to use anyone of your choice.
 
+Steps:
 - Do a git clone of the project - git clone https://github.com/anandapte9/aws-kube-terraform.git
 - Navigate to the root folder and open git bash there.
 - run the script setup.sh to setup your environment variables.
