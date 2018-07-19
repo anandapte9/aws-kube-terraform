@@ -15,23 +15,23 @@ Nice to haves:
 - Navigate to the root folder and open git bash there.
 - run the script setup.sh to setup your environment variables.
 
-     sh setup.sh
+       sh setup.sh
 
 - Initialize Terraform to download all the required plug-ins.
 
-     terraform init
+       terraform init
 
 - Get all the terraform modules.
 
-     terraform get
+       terraform get
 
 - Plan the Kube deployment.
 
-     terraform plan
+       terraform plan
 
 - apply the terraform configuration to stand up the kubernetes cluster.
 
-    terraform apply
+       terraform apply
 
 - Type yes if you are happy with the configurations being applied.
 - Once the terraform apply is completed, it will show the outputs.
